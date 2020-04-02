@@ -1,0 +1,41 @@
+img:hover{
+    color: #424242; 
+    -webkit-transition: all .3s ease-in;
+    -moz-transition: all .3s ease-in;
+    -ms-transition: all .3s ease-in;
+    -o-transition: all .3s ease-in;
+    transition: all .3s ease-in;
+    opacity: 1;
+    transform: scale(2.2);
+    -ms-transform: scale(2.2); /* IE 9 */
+    -webkit-transform: scale(2.2); /* Safari and Chrome */
+  } 
+
+
+/* .img-zoom-container {
+    position: relative;
+  }
+  
+  .img-zoom-lens {
+    position: absolute;
+    border: 1px solid #d4d4d4;
+    /*set the size of the lens:*/
+    /* width: 40px;
+    height: 40px;
+  }
+   */
+  /* .img-zoom-result {
+    border: 1px solid #d4d4d4; */
+    /*set the size of the result div:*/
+    /* width: 300px;
+    height: 300px;
+  } */
+
+    /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+    @media screen and (max-width: 600px) {
+      img:hover{
+        transform: none;
+        -ms-transform: none; /* IE 9 */
+        -webkit-transform: none; /* Safari and Chrome */
+      } 
+    }

@@ -1,0 +1,153 @@
+<div style="width:100%;float:left;">
+        <!-- IMAGE hidden on mobile -->
+        <div class="mobileHide" style="float:left;max-width:325px;">
+            <img alt="Pre-Order Thanksgiving Birds" height="165px" src="current-sale-images/sale-page-turkey-green.jpg?$staticlink$"
+                style="padding:0px 25px 85px 0px; border-color:initial;" title="Pre-Order Thanksgiving Birds" width="235px" />
+        </div>
+        <!-- COPY visible on all devices -->
+
+        <div style="min-width:325px;padding-right:10%;">
+            <p style="font-size:1.4em;font-weight:bold;margin-top:0px;">Pre-Order Thanksgiving Birds</p>
+
+            <p style="font-size:1em;">Choose from
+                <a href="/FTUOR002-1.html" style="text-decoration:underline;color:#c90a00;">Organic Turkey</a>,
+                <a href="/FTUHE040-1.html" style="text-decoration:underline;color:#c90a00;">Heritage Turkey</a>,
+                <a href="/FTUWI002-1.html" style="text-decoration:underline;color:#c90a00;">Wild Turkey</a>,
+                <a href="/buy/turkey-breast/" style="text-decoration:underline;color:#c90a00;">Turkey Breast</a>,
+                <a href="/FGORE004-1.html" style="text-decoration:underline;color:#c90a00;">Goose</a>, and
+                <a href="/FCAPO002-1.html" style="text-decoration:underline;color:#c90a00;">Capon</a>. Reserve your preferred type and size, while supplies last, for delivery from November 16-20th.</p>
+
+            <p>
+                <a class="btn text-uppercase primary-btn" href="$url('Search-Show','cgid','turkey')$" role="button">Shop Turkey</a>
+            </p>
+            <p>
+                <a class="btn text-uppercase primary-btn" href="$url('Product-Show','pid','FGORE004-1')$" role="button">Shop Goose</a>
+            </p>
+            <p>
+                <a class="btn text-uppercase primary-btn" href="$url('Product-Show','pid','FCAPO002-1')$" role="button">Shop Capon</a>
+            </p>
+
+        </div>
+
+
+        <!-- END ROW 1 -->
+        <!-- ROW 2 - MAIN OFFER -->
+
+
+        <div style="width:100%;float:left;">
+            <!-- IMAGE hidden on mobile -->
+            <div class="mobileHide" style="float:left;max-width:325px;">
+                <img alt="Pre-Order Holiday Hams & Roasts" height="165px" src="current-sale-images/sale-page-ham-fall.jpg?$staticlink$" style="padding:0px 25px 85px 0px; border-color:initial;"
+                    title="Pre-Order Holiday Hams & Roasts" width="235px" />
+            </div>
+            <!-- COPY visible on all devices -->
+
+            <div style="min-width:325px;padding-right:10%;">
+                <p style="font-size:1.4em;font-weight:bold;margin-top:0px;">Order Thanksgiving Hams & Roasts</p>
+
+                <p style="font-size:1em;">Choose from a wide selection of holiday centerpieces, like
+                    <a href="/buy/ham/" style="text-decoration:underline;color:#c90a00;">Berkshire Pork Hams</a>,
+                    <a href="/FBNTE003-1.html" style="text-decoration:underline;color:#c90a00;">Angus Beef Tenderloin</a>,
+                    <a href="/FDUPA006-1.html" style="text-decoration:underline;color:#c90a00;">Whole Rohan Duck</a> , and
+                    <a href="/ZPORR006-1.html" style="text-decoration:underline;color:#c90a00;">Porcelet Rib Roasts</a>.</p>
+
+                <p>
+                    <a class="btn text-uppercase primary-btn" href="$url('Search-Show','cgid','holiday-hams-roasts')$" role="button">Shop Hams & Roasts</a>
+                </p>
+
+            </div>
+
+
+            <!-- END ROW 2 -->
+            <!-- ROW 3 - MAIN OFFER -->
+
+
+            <div style="width:100%;float:left;">
+
+                <!-- IMAGE hidden on mobile -->
+                <div class="mobileHide" style="float:left;max-width:325px;">
+                    <img alt="10% OFF Holiday Helpers" width="235px" height="165px" src="current-sale-images/sale-page-holiday-helpers.jpg?$staticlink$"
+                        style="padding:0px 25px 85px 0px; border-color:initial;" title="10% OFF Holiday Helpers" />
+                </div>
+
+                <!-- COPY visible on all devices -->
+                <div style="min-width:325px;padding-right:10%;">
+                    <p style="font-size:1.4em;font-weight:bold;margin-top:0px;">10% OFF Holiday Helpers</p>
+
+                    <p style="font-size:1em;color:#c90a00;">Stock up on all the delicious details for your holiday feast, from pantry staples to foie gras! Offer
+                        ends 11:59 pm EDT, Monday, November 19, 2018.</p>
+
+                    <p>
+                        <a class="btn text-uppercase primary-btn" href="$url('Search-Show','cgid','holiday-helpers')$" role="button">Shop Holiday Helpers</a>
+                    </p>
+
+                    <p style="font-size:0.8em;padding-top:10px;line-height:115%;">Terms: Offer valid on Holiday Helpers category while supplies last on new orders placed between 12:00am
+                        EDT Monday, October 29, 2018 and 11:59pm EDT, Monday, November 19, 2018. Offer not valid on prior/pending
+                        orders and may not be combined with other offers. Other restrictions may apply.</p>
+                </div>
+
+
+                <!-- END ROW 3 -->
+                <!-- ROW 4 - MAIN OFFER -->
+
+                <div style="width:100%;float:left;">
+
+                    <!-- IMAGE hidden on mobile -->
+                    <div class="mobileHide" style="float:left;max-width:325px;">
+                        <img alt="25% OFF Salt Meadow Lamb" width="235px" height="165px" src="current-sale-images/sale-page-salt-meadow-lamb.jpg?$staticlink$"
+                            style="padding:0px 25px 85px 0px; border-color:initial;" title="25% OFF Salt Meadow Lamb" />
+                    </div>
+
+                    <!-- COPY visible on all devices -->
+                    <div style="min-width:325px;padding-right:10%;">
+                        <p style="font-size:1.4em;font-weight:bold;margin-top:0px;">25% OFF Salt Meadow Lamb</p>
+
+                        <p style="font-size:1em;color:#c90a00;">It's the perfect time to try this flavorful lamb you can only get here. Offer ends 11:59 pm EDT,
+                            Monday, November 19, 2018, or while supplies last.</p>
+
+                        <p>
+                            <a class="btn text-uppercase primary-btn" href="$url('Search-Show','cgid','salt-meadow-lamb')$" role="button">Shop Salt Meadow Lamb</a>
+                        </p>
+
+                        <p style="font-size:0.8em;padding-top:10px;line-height:115%;">Terms: Offer valid on Salt Meadow Lamb category while supplies last on new orders placed between
+                            12:00am EDT Monday, October 22, 2018 and 11:59pm EDT, Monday, November 19, 2018. Offer not valid
+                            on prior/pending orders and may not be combined with other offers. Other restrictions may apply.</p>
+                    </div>
+
+
+
+                    <!-- END ROW 4-->
+                    <!-- ROW 5- MAIN OFFER -->
+
+                    <div style="width:100%;float:left;">
+                        <!-- IMAGE hidden on mobile -->
+                        <div class="mobileHide" style="float:left;max-width:325px;">
+                            <img alt="Shop New Arrivals" height="165px" src="current-sale-images/new-arrivals-sale-page.jpg?$staticlink$" style="padding:0px 25px 85px 0px; border-color:initial;"
+                                title="Shop New Arrivals" width="235px" />
+                        </div>
+                        <!-- COPY visible on all devices -->
+
+                        <div style="min-width:325px;padding-right:10%;">
+                            <p style="font-size:1.4em;font-weight:bold;margin-top:0px;">New Arrivals</p>
+
+                            <p style="font-size:1em;">At D&rsquo;Artagnan we work to bring you the best quality products, raised naturally on small
+                                farms without antibiotics or hormones. Our network of dedicated farmers is always expanding
+                                as we seek to supply discerning professional chefs and home cooks with a wide variety of
+                                delicious options. Explore our new arrivals like
+                                <a href="/buy/ham/" style="text-decoration:underline;color:#c90a00;">Berkshire Pork Hams</a>,
+                                <a href="/LAMDOM020-1.html" style="text-decoration:underline;color:#c90a00;">Lamb Denver Chops</a>,
+                                <a href="/CHATUR001-1.html" style="text-decoration:underline;color:#c90a00;">Truffled Turkey Breast</a>,
+                                <a href="/ZPORPOR011-1.html" style="text-decoration:underline;color:#c90a00;">Porcelet Collar Roast</a>, and exclusive
+                                <a href="/buy/charcuterie-kits/" style="text-decoration:underline;color:#c90a00;">Ready-to-Serve Charcuterie Kits</a>.</p>
+
+                            <p>
+                                <a class="btn text-uppercase primary-btn" href="$url('Search-Show','cgid','new-products')$" role="button">Explore New Arrivals</a>
+                            </p>
+                            <!-- END ROW 5 -->
+                            <!-- LINE -->
+
+                            <div style="width:100%;float:left;padding:20px 0px 20px 0px;">
+                                <hr />
+                            </div>
+                            <!-- END LINE -->
+                        </div>
